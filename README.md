@@ -8,7 +8,9 @@ O app contém os seguintes módulos
 * Uma tela com as opções de pedra,papel e tesoura e 2 botões um para gerar escolha do adversário e outro para obter o resultado  
 
 ## páginas
-![Foto do App](https://github.com/CarlosSTS/rockPaperScissors/blob/master/gifProject.gif)
+![Foto do App dashboard](https://github.com/CarlosSTS/rockPaperScissors/blob/master/assets/dashboard.png)
+
+![Foto do App alerta](https://github.com/CarlosSTS/rockPaperScissors/blob/master/assets/alert.png)
 
 ## Testando
 RODANDO O PROJETO
