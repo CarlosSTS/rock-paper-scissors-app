@@ -17,11 +17,7 @@ RODANDO O PROJETO
 * yarn install=>  para instalar as  Dependências do projeto
 * yarn start => para inicializar o projeto
 * yarn android => para executar o projeto no emulador android
-**(NECESSÁRIO EMULADOR ABERTO)**
 * yarn ios => Para executar no emulador iOS
-**(NÃO NECESSITA DO EMULADOR ABERTO)**
-
-****
 
 ## Feito por
 
