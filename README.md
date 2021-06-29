@@ -7,6 +7,9 @@ O app contém os seguintes módulos
 
 * Uma tela com as opções de pedra,papel e tesoura e 2 botões um para gerar escolha do adversário e outro para obter o resultado  
 
+## Veja no LinkedIn
+* [Ir para o LinkedIn](https://www.linkedin.com/posts/carlos-ferreira-4b2ba219a_um-pequeno-jogo-de-pedrapapel-e-tesoura-activity-6760685531316793344-OHbp)
+
 ## páginas
 ![Foto do App dashboard](https://github.com/CarlosSTS/rockPaperScissors/blob/master/assets/dashboard.png)
 ![Foto do App alerta](https://github.com/CarlosSTS/rockPaperScissors/blob/master/assets/alert.png)
