@@ -14,8 +14,8 @@ O app contém os seguintes módulos
 ![Foto do App dashboard](https://github.com/CarlosSTS/rockPaperScissors/blob/master/assets/dashboard.png)
 ![Foto do App alerta](https://github.com/CarlosSTS/rockPaperScissors/blob/master/assets/alert.png)
 
-## Testando
-RODANDO O PROJETO
+## BACKEND
+RODANDO O PROJETO BACKEND
 * yarn install => para instalar as Dependências do projeto
 * yarn start => para inicializar o projeto
 * yarn android => para executar o projeto no emulador android
