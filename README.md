@@ -1,4 +1,4 @@
-# rockPaperScissors
+# Rock-paper-scissors-app
 Um pequeno jogo de pedra, papel  e tesoura criado em React-Native 
 
 ## módulos
