@@ -13,8 +13,8 @@ O app contém os seguintes módulos
 ## páginas
 <table>
   <tr>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Frock-paper-scissors-app%2Fdashboard.png?alt=media&token=b18e8f2d-7464-4d5f-a200-4caa720bcd11" alt="Foto do App Dashboard" width="360" /></td>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Frock-paper-scissors-app%2Falert.png?alt=media&token=f00c4fff-49f6-4fd7-a51f-4b24eb767364" alt="Foto do App alerta" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/rock-paper-scissors-app/dashboard.png" alt="Foto do App Dashboard" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/rock-paper-scissors-app/alert.png" alt="Foto do App alerta" width="360" /></td>
 </tr>
 </table>
 
@@ -29,5 +29,5 @@ RODANDO O PROJETO BACKEND
 
 Carlos Ferreira
 * [Github](https://www.github.com/CarlosSTS)
-* [Email](mailto://carlossts826@gmail.com)
+* [Email](mailto://carlossts.dev@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/carlos-ferreira-4b2ba219a/)
